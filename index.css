@@ -1,0 +1,32 @@
+body {
+    background-color: #DFF8EB;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    color: #011638;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    color: #011638;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+ul.topnav {
+	list-style-type: none;
+	margin: 10px auto;
+	padding: 10;
+	overflow: hidden;
+	background-color: white;
+}
+ul.topnav li {float: left;}
+
+ul.topnav li {
+    display: inline-block;
+    color: #011638;
+    text-align: center;
+    padding: 15px 130px;
+    text-decoration: none;
+    font-size: 30px;
+}

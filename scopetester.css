@@ -1,0 +1,23 @@
+body {
+	background-color: #FEFCFB;
+	font-family: 'Roboto' sans-serif;
+}
+
+.navbar {
+	background-color: #003390;
+	padding: 2px, 2px;
+	height: 50px;
+}
+.header-image {
+	height: 100px;
+}
+
+.divider {
+	padding: 15px;
+	text-align: center;
+	border:5px solid black;
+	background-color: yellow;
+}
+
+
+
